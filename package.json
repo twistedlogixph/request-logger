@@ -1,9 +1,9 @@
 {
-   "name": "@retechph-dev/request-logger",
+   "name": "@twistedlogixph/request-logger",
    "version": "0.0.1",
    "main": "dist/index.js",
    "publishConfig": {
-      "registry": "https://npm.pkg.github.com/@retechph-dev"
+      "registry": "https://npm.pkg.github.com/@twistedlogixph"
    },
    "files": [
       "dist"
